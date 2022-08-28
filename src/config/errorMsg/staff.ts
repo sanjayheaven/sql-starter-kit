@@ -12,16 +12,6 @@ export const UsernameShouldBeUnique: IErrorMsg = {
 
 
 
-
-
-
-
-
-
-
-
-
-
 export const StaffNotExist = {
   msg: "Staff does't exist.",
   code: 2002,
